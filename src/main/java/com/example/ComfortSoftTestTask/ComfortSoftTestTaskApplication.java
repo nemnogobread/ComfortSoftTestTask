@@ -9,5 +9,4 @@ public class ComfortSoftTestTaskApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ComfortSoftTestTaskApplication.class, args);
 	}
-
 }

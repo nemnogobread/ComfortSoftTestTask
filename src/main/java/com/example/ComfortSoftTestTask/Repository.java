@@ -4,5 +4,5 @@ import java.util.List;
 
 @org.springframework.stereotype.Repository
 public interface Repository {
-    public List<Integer> getDataFromCSV(String path);
+    public List<Integer> getDataFromXLSX(String path);
 }
